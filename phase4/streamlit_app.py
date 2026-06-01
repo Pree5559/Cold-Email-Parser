@@ -380,7 +380,7 @@ def main():
         col1, col2, col3 = st.columns(3)
         
         with col1:
-            if st.button("📤 Send Email", type="primary", width='stretch'):
+            if st.button("📤 Send Email", type="primary"):
                 if 'validation_error' in email:
                     st.error("❌ Cannot send email with validation errors")
                 else:
@@ -395,13 +395,13 @@ def main():
                             log_action(contact, email, 'failed', 'Send error')
         
         with col2:
-            if st.button("⏭️ Skip", width='stretch'):
+            if st.button("⏭️ Skip"):
                 log_action(contact, email, 'skipped')
                 st.session_state.current_index += 1
                 st.rerun()
         
         with col3:
-            if st.button("🔄 Regenerate", width='stretch'):
+            if st.button("🔄 Regenerate"):
                 del st.session_state.generated_emails[st.session_state.current_index]
                 st.rerun()
         
