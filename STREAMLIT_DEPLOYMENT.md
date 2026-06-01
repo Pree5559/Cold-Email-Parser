@@ -17,6 +17,9 @@ This guide walks you through deploying **The Closer** to [Streamlit Community Cl
    - **Repository:** `Pree5559/Cold-Email-Parser`
    - **Branch:** `main`
    - **Main file path:** `phase4/streamlit_app.py`
+
+> ⚠️ Add `runtime.txt` to the repo root before deploying to force a compatible Python version. Use `python-3.11.16` for Streamlit Cloud.
+
 5. Click **"Deploy"** — Streamlit will build and deploy your app
 
 ## Step 2: Configure Environment Variables (Secrets)
