@@ -1,0 +1,19 @@
+python-dotenv==1.0.0
+
+# Phase 3 Optional Dependencies
+# Uncomment if using Gmail API integration
+# google-api-python-client==2.100.0
+# google-auth-oauthlib==1.0.0
+
+# Uncomment if using LLM integration
+# groq==0.5.0
+
+# Phase 4 Dependencies
+streamlit==1.28.0
+passlib==1.7.4
+fastapi==0.104.0
+uvicorn==0.24.0
+pandas==2.1.0
+plotly==5.17.0
+python-jose[cryptography]==3.3.0
+bcrypt==4.0.1

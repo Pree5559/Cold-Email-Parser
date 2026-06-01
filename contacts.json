@@ -1,0 +1,32 @@
+[
+  {
+    "recipient_name": "Priya Sharma",
+    "recipient_email": "priya@example.com",
+    "company": "Acme AI",
+    "role": "Backend Engineering Intern",
+    "personalization_note": "Company recently launched an AI workflow automation product",
+    "candidate_name": "Your Name",
+    "candidate_background": "Python developer interested in automation and AI agents",
+    "portfolio_url": "https://github.com/yourname"
+  },
+  {
+    "recipient_name": "Alex Johnson",
+    "recipient_email": "alex@techstart.io",
+    "company": "TechStart",
+    "role": "Full Stack Developer",
+    "personalization_note": "Recently raised Series B funding for their developer tools platform",
+    "candidate_name": "Your Name",
+    "candidate_background": "Full-stack developer with experience in React and Python",
+    "portfolio_url": "https://github.com/yourname"
+  },
+  {
+    "recipient_name": "Sarah Chen",
+    "recipient_email": "sarah@innovate.co",
+    "company": "Innovate Co",
+    "role": "Software Engineer",
+    "personalization_note": "Building next-gen productivity tools for remote teams",
+    "candidate_name": "Your Name",
+    "candidate_background": "Software engineer passionate about building tools that help people work better",
+    "portfolio_url": "https://github.com/yourname"
+  }
+]

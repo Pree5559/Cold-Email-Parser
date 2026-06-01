@@ -1,0 +1,32 @@
+timestamp,recipient_email,company,role,subject,status,error_message,word_count
+2026-05-30 21:57:42,priya@example.com,Acme AI,Backend Engineering Intern,Quick note on the Backend Engineering Intern role,skipped,,77
+2026-05-30 21:57:57,alex@techstart.io,TechStart,Full Stack Developer,Quick note on the Full Stack Developer role,skipped,,78
+2026-05-30 21:59:02,sarah@innovate.co,Innovate Co,Software Engineer,Quick note on the Software Engineer role,skipped,,78
+2026-05-30 21:59:08,michael@datalytics.com,DataLytics,Data Engineering Intern,Quick note on the Data Engineering Intern role,skipped,,75
+2026-05-30 21:59:10,emily@cloudscale.io,CloudScale,DevOps Engineer,Quick note on the DevOps Engineer role,skipped,,77
+2026-05-30 22:10:01,priya@example.com,Acme AI,Backend Engineering Intern,Quick note on the Backend Engineering Intern role,skipped,,77
+2026-05-30 22:10:04,alex@techstart.io,TechStart,Full Stack Developer,Quick note on the Full Stack Developer role,skipped,,78
+2026-05-30 22:10:06,sarah@innovate.co,Innovate Co,Software Engineer,Quick note on the Software Engineer role,skipped,,78
+2026-05-30 22:10:07,michael@datalytics.com,DataLytics,Data Engineering Intern,Quick note on the Data Engineering Intern role,skipped,,75
+2026-05-30 22:10:08,emily@cloudscale.io,CloudScale,DevOps Engineer,Quick note on the DevOps Engineer role,skipped,,77
+2026-05-30 22:10:26,priya@example.com,Acme AI,Backend Engineering Intern,Quick note on the Backend Engineering Intern role,skipped,,77
+2026-05-30 22:10:29,alex@techstart.io,TechStart,Full Stack Developer,Quick note on the Full Stack Developer role,skipped,,78
+2026-05-30 22:10:30,sarah@innovate.co,Innovate Co,Software Engineer,Quick note on the Software Engineer role,skipped,,78
+2026-05-30 22:10:48,priya@example.com,Acme AI,Backend Engineering Intern,Quick note on the Backend Engineering Intern role,skipped,,77
+2026-05-30 22:10:50,alex@techstart.io,TechStart,Full Stack Developer,Quick note on the Full Stack Developer role,skipped,,78
+2026-05-30 22:10:51,sarah@innovate.co,Innovate Co,Software Engineer,Quick note on the Software Engineer role,skipped,,78
+2026-05-30 22:17:48,priya@example.com,Acme AI,Backend Engineering Intern,Quick note on the Backend Engineering Intern role,skipped,,77
+2026-05-30 22:17:54,alex@techstart.io,TechStart,Full Stack Developer,Quick note on the Full Stack Developer role,skipped,,63
+2026-05-30 22:17:57,sarah@innovate.co,Innovate Co,Software Engineer,Quick note on the Software Engineer role,skipped,,63
+2026-05-30 22:18:00,michael@datalytics.com,DataLytics,Data Engineering Intern,Quick note on the Data Engineering Intern role,skipped,,60
+2026-05-30 22:18:25,emily@cloudscale.io,CloudScale,DevOps Engineer,Quick note on the DevOps Engineer role,skipped,,62
+2026-05-30 22:20:18,priya@example.com,Acme AI,Backend Engineering Intern,Quick note on the Backend Engineering Intern role,skipped,,77
+2026-05-30 22:20:20,alex@techstart.io,TechStart,Full Stack Developer,Quick note on the Full Stack Developer role,skipped,,78
+2026-05-30 22:20:21,sarah@innovate.co,Innovate Co,Software Engineer,Quick note on the Software Engineer role,skipped,,78
+2026-05-30 22:20:22,michael@datalytics.com,DataLytics,Data Engineering Intern,Quick note on the Data Engineering Intern role,skipped,,75
+2026-05-30 22:20:23,emily@cloudscale.io,CloudScale,DevOps Engineer,Quick note on the DevOps Engineer role,skipped,,77
+2026-06-01 13:23:16,priya@example.com,Acme AI,Backend Engineering Intern,Quick note on the Backend Engineering Intern role,skipped,,77
+2026-06-01 13:23:18,alex@techstart.io,TechStart,Full Stack Developer,Quick note on the Full Stack Developer role,skipped,,78
+2026-06-01 13:23:22,sarah@innovate.co,Innovate Co,Software Engineer,Quick note on the Software Engineer role,skipped,,78
+2026-06-01 13:23:24,michael@datalytics.com,DataLytics,Data Engineering Intern,Quick note on the Data Engineering Intern role,skipped,,75
+2026-06-01 13:23:27,emily@cloudscale.io,CloudScale,DevOps Engineer,Quick note on the DevOps Engineer role,skipped,,77

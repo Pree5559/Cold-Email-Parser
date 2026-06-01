@@ -1,0 +1,4 @@
+recipient_name,recipient_email,company,role,personalization_note,candidate_name,candidate_background,portfolio_url
+Priya Sharma,priya@example.com,Acme AI,Backend Engineering Intern,Company recently launched an AI workflow automation product,Your Name,Python developer interested in automation and AI agents,https://github.com/yourname
+Alex Johnson,alex@techstart.io,TechStart,Full Stack Developer,Recently raised Series B funding for their developer tools platform,Your Name,Full-stack developer with experience in React and Python,https://github.com/yourname
+Sarah Chen,sarah@innovate.co,Innovate Co,Software Engineer,Building next-gen productivity tools for remote teams,Your Name,Software engineer passionate about building tools that help people work better,https://github.com/yourname
