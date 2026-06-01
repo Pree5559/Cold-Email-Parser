@@ -447,7 +447,7 @@ def main():
         st.subheader("📋 Activity Logs")
         
         logs_df = pd.DataFrame(st.session_state.log_entries)
-        st.dataframe(logs_df, width='stretch')
+        st.dataframe(logs_df, use_container_width=True)
         
         # Download logs
         csv = logs_df.to_csv(index=False)
